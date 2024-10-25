@@ -1,6 +1,6 @@
 <?php
 
-$url = 'https://babel-in.xyz/tata/sliv';
+$url = 'https://babel-in.xyz/tata/fancode';
 $data = [
     'X-API-Key' => 'babel-40b84ca520bd0fe134cc01fc80',
 ];
