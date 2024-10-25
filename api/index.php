@@ -1,6 +1,6 @@
 <?php
 
-$url = 'https://babel-in.xyz/tata/jcinema';
+$url = 'https://babel-in.xyz/tata/tata/channels';
 $data = [
     'X-API-Key' => 'babel-40b84ca520bd0fe134cc01fc80',
 ];
