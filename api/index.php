@@ -1,6 +1,6 @@
 <?php
 // URL of the M3U playlist
-$url = 'https://m3u.yuvraj49.xyz/tp/KxEs2IHfHljP/playlist.m3u';
+$url = '';
 
 // Fetch the content of the M3U file
 $m3uContent = file_get_contents($url);
